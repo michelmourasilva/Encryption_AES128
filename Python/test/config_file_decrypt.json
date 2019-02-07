@@ -1,0 +1,20 @@
+{
+  "campos": {
+    "NU_CPF": {
+      "algorithm": "AES128",
+	  "method": 0
+    },
+    "NO_FUNCIONARIO": {
+      "algorithm": "SUBS_STRING",
+	  "method": 1
+    },
+    "DT_HOJE": {
+      "algorithm": "SUBS_DATA",
+	  "method": 1
+    },
+    "NU_DOCUMENTO": {
+      "algorithm": "SUBS_NUMERIC",
+	  "method": 1
+    }  
+    }  	
+}

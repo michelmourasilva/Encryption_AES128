@@ -1,0 +1,4 @@
+pycryptodome
+cx_Oracle==6.3.1
+pandas==0.23.1
+swifter==0.153
